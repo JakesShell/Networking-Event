@@ -56,7 +56,7 @@ This project involves the planning and execution of a Networking Event aimed at 
 - **Week 2**: Final preparations, on-site logistics, and execution of the event.
 
 ### Contact Information
-For queries or suggestions related to this project, please reach out to [your email or contact method].
+For queries or suggestions related to this project, please reach out to [jacovanrooyen21@gmail.com].
 
 ## Contributing
 
