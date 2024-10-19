@@ -1,9 +1,9 @@
 # Networking-Event
- <h1>Project Overview</h1>
+ <h2>Project Overview</h2>
  <p>
 This project involves the planning and execution of a Networking Event aimed at local entrepreneurs to foster collaboration, share ideas, and create business opportunities. The event is designed to bring together innovative minds from various industries to network, learn, and grow their businesses.
 </p>
-## Project Duration
+<h2>Project Duration</h2>
 
 **2 Weeks**: The project will be executed over a two-week period, ensuring efficient planning and coordination to deliver a successful event.
 
